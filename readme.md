@@ -1,6 +1,6 @@
 # Comment-me
 
-<img src="./src/Comment-me.png">
+<img src="./asset/Comment-me.png">
 
 ## Resumo
 
